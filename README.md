@@ -1,7 +1,5 @@
-# Econ613-Problem-Set
-Econ613 Problem Set
-Problem set2
-  -contain 3 files 
-  (1) ps2.m, which contains all the codes
-  (2) probit_likelihood.m, created for problem 4
-  (3) ps2.pdf, which lay out all the results when running ps2.
+# Econ613 Reading note
+IF not counting the blank line and the first three title line,
+
+I did not exceed one page for any of the five notes!
+Please don't take away my scores as I don’t want to delete any line in my notes.
